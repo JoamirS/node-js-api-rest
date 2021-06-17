@@ -1,0 +1,19 @@
+{
+  "name": "projeto-api",
+  "version": "1.0.0",
+  "description": "api rest com mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoamirS/node-js-api-rest.git"
+  },
+  "author": "Joamir Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoamirS/node-js-api-rest/issues"
+  },
+  "homepage": "https://github.com/JoamirS/node-js-api-rest#readme"
+}
